@@ -1,9 +1,9 @@
 from datetime import datetime
 import time
-from IPython.display import clear_output
+import os
 
-birthday_month = 8
-birthday_day = 22
+birthday_month = 7
+birthday_day = 20
 while True:
     now = datetime.now()
     current_year = now.year
@@ -20,7 +20,7 @@ while True:
     seconds = int(total_seconds % 60)
     milliseconds = int((total_seconds - int(total_seconds)) * 1000)
 
-    clear_output(wait=True)
+    os.system("clear")
     print("Countdown to your birthday")
     print(
         f'{days} days, {hours:02d} hours, {minutes:02d} minutes, {seconds:02d} seconds, {milliseconds:03d} milliseconds left!')
