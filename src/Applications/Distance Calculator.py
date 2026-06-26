@@ -10,7 +10,7 @@ def convert():
 #window
 window = ttk.Window(themename = 'journal')
 window.title('Demo')
-window.geometry('350x150')
+window.geometry('350x125')
 
 #title
 title_label = ttk.Label(master = window, text = 'Miles To Kilometers', font = 'Calibri 24 bold')
