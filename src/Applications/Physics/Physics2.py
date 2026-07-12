@@ -3,7 +3,7 @@ import pygame,sys,pymunk,random
 def create_apple(space,pos):
     body = pymunk.Body(1, 100, body_type = pymunk.Body.DYNAMIC)
     body.position = pos
-    shape = pymunk.Circle(body, 27)
+    shape = pymunk.Circle(body, 30)
     space.add(body,shape)
     return shape
 
@@ -18,7 +18,7 @@ def draw_apples(apples):
 def static_ball(space, pos):
     body = pymunk.Body(body_type = pymunk.Body.STATIC)
     body.position = pos
-    shape = pymunk.Circle(body, 60)
+    shape = pymunk.Circle(body, 50)
     space.add(body,shape)
     return shape
 
@@ -40,7 +40,7 @@ apples = []
 balls = []
 
 
-for item in range(10):
+for item in range(15):
     x = random.randint(1, 800)
     y = random.randint(1, 800)
     balls.append(static_ball(space,(x , y)))
