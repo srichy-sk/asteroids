@@ -1,7 +1,8 @@
+
 import qrcode
 
 url = input('Enter The URL:').strip()
-file_path = '/Users/santhakumarramaiyan/qrcode.png'
+file_path = 'C:\\Users\\srich\\OneDrive\\Documents\\qrcode.png'
 
 qr = qrcode.QRCode()
 qr.add_data(url)
