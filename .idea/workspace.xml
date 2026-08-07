@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ccb85fc-2a8c-4775-9808-7107cd1b8ef7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/asteroids.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Arrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Buttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Buttons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/CACHEDIR.TAG" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/CACHEDIR.TAG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Countdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Countdown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/DateAndTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/DateAndTime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Dice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/EmailSlicer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/EmailSlicer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Encryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Encryption.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Passcodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Passcodes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/RPS.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/RPS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/Weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Weight.py" afterDir="false" />
+    <list default="true" id="5ccb85fc-2a8c-4775-9808-7107cd1b8ef7" name="Changes" comment="Added New Asteroids And Moved Files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,34 +15,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "srichy-sk"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;srichy-sk&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/srichy-sk/asteroids.git",
-    "accountId": "f5826860-3a4a-4f5d-accd-a4cd363a00a9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/srichy-sk/asteroids.git&quot;,
+    &quot;accountId&quot;: &quot;f5826860-3a4a-4f5d-accd-a4cd363a00a9&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3HWWUBCbztTuXlVkpg85XOzIKV7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,6 +58,27 @@
       <option name="presentableId" value="Default" />
       <updated>1785984319157</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added New Asteroids And Moved Files">
+      <option name="closed" value="true" />
+      <created>1786075088109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786075088109</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added New Asteroids And Moved Files">
+      <option name="closed" value="true" />
+      <created>1786075153681</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786075153681</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added New Asteroids And Moved Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added New Asteroids And Moved Files" />
   </component>
 </project>
