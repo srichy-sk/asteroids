@@ -4,35 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ccb85fc-2a8c-4775-9808-7107cd1b8ef7" name="Changes" comment="Added New Asteroids And Moved Files">
+    <list default="true" id="5ccb85fc-2a8c-4775-9808-7107cd1b8ef7" name="Changes" comment="Added New Platformer And Moved Files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/AI-Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/AI-Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/Asteroids.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/Asteroids.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/Asteroids2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/Asteroids2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/Breakout.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/Breakout.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/BreakoutV2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/BreakoutV2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/BreakoutV3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/BreakoutV3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/Calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/Classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/Classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/Consession Stand Programs.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/Consession Stand Programs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/Grids.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/Grids.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/Pygame Drawer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/Pygame Drawer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/PygameDD.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/PygameDD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/Temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/Temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/Turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/Turtle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Applications/WeatherApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Other/WeatherApp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/Arrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Buttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/Buttons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/CACHEDIR.TAG" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/CACHEDIR.TAG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Countdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/Countdown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/DateAndTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/DateAndTime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/Dice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/EmailSlicer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/EmailSlicer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Encryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/Encryption.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Passcodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/Passcodes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/RPS.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/RPS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/Snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Applications/Practice/Weight.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +46,14 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.AI-Game.executor": "Run",
+    "Python.FOIL.executor": "Run",
+    "Python.Factoring.executor": "Run",
     "Python.Plat.executor": "Run",
     "Python.Platform.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_directory_selection": "/Users/santhakumarramaiyan/PycharmProjects/Python Projects/src/Applications"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -126,11 +102,28 @@
       <option name="project" value="LOCAL" />
       <updated>1786119297489</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added New Platformer And Moved Files">
+      <option name="closed" value="true" />
+      <created>1787333797265</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1787333797265</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added New Platformer And Moved Files">
+      <option name="closed" value="true" />
+      <created>1787333806259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1787333806259</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added New Asteroids And Moved Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added New Asteroids And Moved Files" />
+    <MESSAGE value="Added New Platformer And Moved Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added New Platformer And Moved Files" />
   </component>
 </project>
